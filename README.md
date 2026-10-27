@@ -74,6 +74,14 @@ One of the most downloaded AI face swap apps with dance video features. Swap fac
 - Dance video templates
 - Celebrity face swap options
 
+### [Uptown Funk AI Video](https://uptownfunkaivideo.com/)
+
+Web tool that puts the person from one selfie into the viral AI Uptown Funk dance trend, producing a 15-second clip with the song.
+
+- Single-photo upload
+- Fixed Uptown Funk dance template
+- 15-second output with audio
+
 ---
 
 ## AI Face Swap Tools
